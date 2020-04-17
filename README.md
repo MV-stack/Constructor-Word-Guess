@@ -42,13 +42,12 @@ Constructor Word Guess is a word guess command-line game using constructor funct
   * **Inquirer** (https://www.npmjs.com/package/inquirer)
  
    
-## Video
+## Screenshots
      
-![Constructor-Word-Guess](img/constructor.gif)
-
-
-
-
+![alt text](img/Constructor_1.PNG)
+![alt text](img/Constructor_2.PNG)
+![alt text](img/Constructor_3.PNG)
+![alt text](img/Constructor_4.PNG)
 
 
 
